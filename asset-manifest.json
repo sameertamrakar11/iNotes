@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNotes/static/css/main.b176f5a1.css",
+    "main.js": "/iNotes/static/js/main.0c513ed9.js",
+    "index.html": "/iNotes/index.html",
+    "main.b176f5a1.css.map": "/iNotes/static/css/main.b176f5a1.css.map",
+    "main.0c513ed9.js.map": "/iNotes/static/js/main.0c513ed9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b176f5a1.css",
+    "static/js/main.0c513ed9.js"
+  ]
+}
